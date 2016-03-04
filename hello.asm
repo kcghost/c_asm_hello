@@ -1,7 +1,7 @@
 bits 64
 
 section .data
-msg db  'Hello, world!',0xa,0xd
+msg db  'Hello, world!',0xa
 len equ $ - msg
 
 section .text
