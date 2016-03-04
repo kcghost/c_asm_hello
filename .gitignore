@@ -1,0 +1,7 @@
+*.bin
+*.xxd
+*.o
+*.d
+*.o_start
+hello
+main
