@@ -27,7 +27,7 @@ License and References
 ----------------------
 [The Unlicense](http://unlicense.org/). This project is truly free, and public domain.
 
-I got the basis for the C code from [this stackoverflow answer.](http://stackoverflow.com/questions/9960721/how-to-get-c-code-to-execute-hex-bytecode/9964472#9964472)
+I got the basis for the C code from [this stackoverflow answer](http://stackoverflow.com/questions/9960721/how-to-get-c-code-to-execute-hex-bytecode/9964472#9964472) and I got an assembly trick for reading the instruction pointer from [this other stackoverflow answer.](http://stackoverflow.com/questions/599968/reading-program-counter-directly/599982#599982)
 Other references include: 
 [the Linux 64 bit system call table](http://blog.rchapman.org/post/36801038863/linux-system-call-table-for-x86-64), 
 [the NASM Manual](http://www.nasm.us/doc/), 
